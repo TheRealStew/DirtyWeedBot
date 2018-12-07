@@ -1,0 +1,2 @@
+# DirtyWeedBot
+Discord Weed Bot
